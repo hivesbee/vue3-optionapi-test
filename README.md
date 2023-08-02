@@ -1,6 +1,8 @@
 # 結論
 `vm.$data.count` も `vm.count` も動いた…
 
+`src/components/TestComp` および `__tests__/TestComp.spec.js` 参照
+
 # vue3-opsionapi-test
 
 This template should help get you started developing with Vue 3 in Vite.
